@@ -13,12 +13,3 @@ Le vaisseau est piloté grâce à la puissance des moteurs et son orientation da
 <div align="center">
     <img src="images/Mars_lander_level_2.png" alt="Mars_lander_2_img">
 </div>
-
-<center> 
-        <h1 style="color: green">GeeksforGeeks</h1> 
-        <h3>Embedding the PDF file Using Object Tag</h3> 
-        <object data= "report_C.pdf" 
-                width="800"
-                height="500"> 
-        </object> 
-    </center> 
